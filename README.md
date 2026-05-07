@@ -222,6 +222,3 @@ streamlit run app.py
 
 ---
 
-# ⭐ If you liked this project
-
-Give it a star ⭐ on GitHub!
