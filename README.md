@@ -1,5 +1,4 @@
-# 🚀 AI Job Copilot
-
+# 🚀 TalentIQ AI – Resume Intelligence Platform
 An AI-powered Resume Analyzer & Job Search Assistant built using **FastAPI, Streamlit, RAG, FAISS, and Groq LLM**.
 
 This application helps users:
